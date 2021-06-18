@@ -1,7 +1,7 @@
- #### open a cloudinary account if you dont have one.
+ ### open a cloudinary account if you dont have one.
  #### cd timtech-ecom-app 
  #### then create .env file in the root of your project and enter the following
-  MONGO_URI=*enter your mongodb uri here*
+  MONGO_URI=*enter your mongodb uri here*<br>
   CLOUDINARY_CLOUD_NAME=*enter your cloud_name*<br>
   CLOUDINARY_API_KEY=*enter api key here*<br>
   CLOUDINARY_API_SECRET=*enter your api secret*
