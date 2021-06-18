@@ -1,4 +1,4 @@
- ####cd timtech-ecom-app and run
+ #### cd timtech-ecom-app and run
   $ npm install
  #### start the server by running npm start
   $ npm start
