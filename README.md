@@ -1,10 +1,8 @@
- #### cd timtech-ecom-app and run
-  $ npm install
- #### start the server by running npm start
-  $ npm start
-#### cd into client
- $ cd client
- #### install all dependencies
- $ npm install
- $ npm start
+ #### cd timtech-ecom-app install nodemon and concurrently
+  $ npm install nodemon
+  $ npm install concurrently
+ #### run
+  $ npm run install-all
+ #### launch the app
+  $ npm run dev
 
